@@ -1,4 +1,4 @@
-<!-- filename: monthly-expense-tracker-mobile-category-actions.html --><!DOCTYPE html>
+<!-- filename: monthly-expense-tracker-mobile-category-actions.html --><!-- <!DOCTYPE html> -->
 <html lang="en">
 <head>
   <meta charset="UTF-8">
